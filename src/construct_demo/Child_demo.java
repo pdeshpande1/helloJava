@@ -8,7 +8,7 @@ public class Child_demo extends Construct_practise
 	public Child_demo()
 	{
 		
-		System.out.println("I am in child classn HOHOHOHO");
+		System.out.println("I am in child class");
 	}
 	
 	public  void  SUM()
