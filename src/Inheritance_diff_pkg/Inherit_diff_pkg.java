@@ -18,8 +18,8 @@ public class Inherit_diff_pkg extends Fulltime_employee
 	public static void main (String []args)
 	{
 		//parttime_Emloyee p2 = new Fulltime_employee();
-		Inherit_diff_pkg ip= new Inherit_diff_pkg();
-		Child_demo cd= new Child_demo();
+		//Inherit_diff_pkg ip= new Inherit_diff_pkg();
+		//Child_demo cd= new Child_demo();
 	
 		//parttime_Emloyee ip1= new Inherit_diff_pkg();
 		
@@ -33,7 +33,7 @@ public class Inherit_diff_pkg extends Fulltime_employee
 		ip2.monthly_Salary();
 		ip2.supclass();
 		ip2.total();
-		cd.getdata();
+		//cd.getdata();
 	
 		
 		//main(null);

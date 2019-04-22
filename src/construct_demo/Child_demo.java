@@ -25,6 +25,5 @@ public class Child_demo extends Construct_practise
 		
 		cd.SUM();
 		cd.getdata();
-	
 	}
 }
