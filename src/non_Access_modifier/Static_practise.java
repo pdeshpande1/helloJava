@@ -56,8 +56,8 @@ public final class Static_practise
 		
 		Static_practise.var= 10;
 		
-		System.out.println(sp.var);
-		System.out.println(sp1.var);
+		System.out.println(var);
+		System.out.println(var);
 		
 		System.out.println(sp.VARIABLE);
 		

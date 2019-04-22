@@ -2,7 +2,7 @@ package non_Access_modifier;
 
 public abstract class  Abstract_practise 
 {
-	 private abstract void car();
+	 
 	
 
 	
